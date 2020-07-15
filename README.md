@@ -9,3 +9,4 @@ This repo aims to be a living directory of such style guides.  Pull requests are
 * [Chromium's Inclusive Code document](https://chromium.googlesource.com/chromium/src/+/master/styleguide/inclusive_code.md)
 * [Microsoft's bias-free communication document](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
 * [Terminology, Power, and Inclusive Language in Internet-Drafts and RFCs](https://tools.ietf.org/html/draft-knodel-terminology-03)
+* [Google's "Writing Inclusive Documentation"](https://developers.google.com/style/inclusive-documentation?hl=en)
