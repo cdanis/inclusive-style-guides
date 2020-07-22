@@ -11,3 +11,4 @@ This repo aims to be a living directory of such style guides.  Pull requests are
 * [Terminology, Power, and Inclusive Language in Internet-Drafts and RFCs](https://tools.ietf.org/html/draft-knodel-terminology-03)
 * [Google's "Writing Inclusive Documentation"](https://developers.google.com/style/inclusive-documentation?hl=en)
 * [Apple's Style Guide](https://help.apple.com/applestyleguide/): [section on inclusive language](https://help.apple.com/applestyleguide/#/apsg346ef241?sub=apd565c2b8a8f654), [entry on master/slave](https://help.apple.com/applestyleguide/#/apsg72b28652?sub=apd6cbd3fd45), [entry on blacklist/whitelist](https://help.apple.com/applestyleguide/#/apsg1a3a0436?sub=apd9aaca4623)
+* [Android Open Source Project's "Coding with Respect"](https://source.android.com/setup/contribute/respectful-code)
